@@ -47,10 +47,10 @@ _The MFA enable screen where users can toggle the MFA functionality on or off._
 
 ## Challenges and Learnings
 
-During the course of the project, I encountered several challenges, such as:
+During the course of the internship, I encountered several challenges, such as:
 
 1. **Unfamiliarity with the application codebase and underlying technology**: To address this, I spent time studying and analyzing the existing codebase and familiarizing myself with the technologies used.
 2. **Bug discovery and resolution**: Identified and resolved a bug where users could bypass the MFA screen by knowing specific endpoints. The issue was addressed by adding middleware to check MFA validation on every request.
 3. **Security assessments**: Conducted thorough security assessments to identify potential vulnerabilities and ensure adherence to best practices for secure MFA implementation.
 
-Throughout the project, I learned valuable lessons about implementing robust security measures in web applications and gained practical experience working with the technologies and methodologies used in the project.
+Throughout the internship, I learned valuable lessons about implementing robust security measures in web applications and gained practical experience working with the technologies and methodologies used in the project.
